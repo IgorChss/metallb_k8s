@@ -4,5 +4,5 @@ metadata:
   name: addr-pool
   namespace: metallb
 spec:
-  adresses:
+  addresses:
     - 192.168.1.220-192.168.1.230
